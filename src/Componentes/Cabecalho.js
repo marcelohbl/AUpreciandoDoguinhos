@@ -6,6 +6,7 @@ export function Cabecalho() {
     <View style={estilos.container}>
       <Text style={estilos.texto}>AUpreciando Doguinhos</Text>
       <Text style={estilos.texto}>Descubra raças de cachorros fofinhos (ou não)</Text>
+      <Text style={estilos.texto}>The Dog API</Text>
     </View>
   );
 }
